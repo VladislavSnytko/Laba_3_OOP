@@ -11,4 +11,6 @@ CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
 lib*
-run_*
+lab_2*
+tests
+build
